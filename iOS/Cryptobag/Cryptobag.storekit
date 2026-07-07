@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "prod1",
+      "localizations": [
+        {
+          "description": "Cost-basis averaging and manual profit/loss calculator",
+          "displayName": "Cryptobag Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "cryptobag_pro",
+      "referenceName": "Cryptobag Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
